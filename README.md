@@ -1,4 +1,4 @@
-# JavaScript
+## JavaScript + Projects
 
 # Section-1: Getting Started
 ### What is JavaScript?
