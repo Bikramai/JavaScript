@@ -19,10 +19,10 @@ And finally what we have in c, which was the valur of a before we're going to co
 
 let a = 'red';
 let b = 'blue'
+
 let c = a;
-
-
-
+a = b;
+b = c;
 
 console.log(a);
 console.log(b);
