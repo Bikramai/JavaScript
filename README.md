@@ -19,3 +19,7 @@ For example, the JavaScript engines in Firefox and Chrome are SpiderMonkey and V
 Well, ECMA Script is just a specification, JavaScript is a programming language that confirms to this specification. So, we have this organization called ECMA, which is responsible for defining standards, they take of this ECMA Script specification. The first version of ECMA Script was released in 1997. Then, starting in 2015, ECMA has been working on annual releases of a new specification. so in 2015, ECMA Script which is also called ECMA Script version 6, or ES6 for short. This specification defined many new features for JavaScript. 
 So every browser has JavaScript engine, and we can easily write JavaScript code here in Google without any additional tools. Just for demo
 
+# Section-2: Project -Swapping Variables
+- Declare 2 variables, and a set it to red, and b set to blue. Now when we log these on the console, obviously
+we're going to get red and blue. Now, write some code to swap the value of these two variables. So when we 
+log these on the console, instead of getting red and blue, we're going to get blue and red. 
