@@ -24,3 +24,7 @@ So every browser has JavaScript engine, and we can easily write JavaScript code 
 
 # Project-2: Max of Two Numbers
 - Write a function that takes two numbers and returns the maximum of the two.
+
+
+# Project-3: Landscape or Portrait
+- Implement the function isLandsxape, it takes two parameters, width, and fheight of an image, and returns true, if the image is landscape, which means width is greater than height, otherwise it returns false. 
