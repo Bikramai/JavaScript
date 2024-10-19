@@ -15,13 +15,16 @@ otherwise it returns false.
 // return (w > h)
 // add conditional operator on same line with true : false, 
 
+// Poor way or amateurish
+console.log(isLandsxape(300, 600));
+
 function isLandsxape(width, height) {
-    if (width > height) return true;
-        return false; OR (belos)
+    return (width > height) ? true : false;
+        
 }
 
 
-// Optimized way
+// Optimized way or Best practice
 
 console.log(isLandsxape(800, 600));
 
