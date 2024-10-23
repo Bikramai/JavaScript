@@ -2,9 +2,9 @@
 // Divisibly by 5 => Buzz
 // Divisibly by 3 and 5 => FizzBuzz
 // Not divisible by 3 or 5 => input
-// Not a number => 'Not anumber'
+// Not a number => 'Not a Number'
 
-const output = fizzBuzz(false);
+const output = fizzBuzz(15);
 console.log(output);
 
 function fizzBuzz(input) {
